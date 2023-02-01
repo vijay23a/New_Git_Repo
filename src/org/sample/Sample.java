@@ -7,6 +7,10 @@ public class Sample {
 		System.out.println(s1);
 		//b_works
 		System.out.println(s1.isEmpty());
+		// A_work
+		System.out.println(s1.contains("v"));
+
+
 	}
 
 }
